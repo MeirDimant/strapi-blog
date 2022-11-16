@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_config_social_links",
+  "info": {
+    "displayName": "socialLink",
+    "icon": "copy"
+  },
+  "options": {},
+  "attributes": {
+    "socialMedia": {
+      "type": "enumeration",
+      "enum": [
+        "YouTube",
+        "GitHub",
+        "Whatsapp",
+        "Telegram",
+        "Twitter"
+      ]
+    },
+    "link": {
+      "type": "string"
+    }
+  }
+}
